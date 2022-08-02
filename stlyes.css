@@ -1,14 +1,22 @@
 
-
-.hero-image {
-    width: 500px;
-    height: 350px;
-}
-
 .image-container {
     overflow: hidden;
 }
 
 .image-container img {
     width: inherit;
+}
+
+.hero-image {
+    width: 500px;
+    height: 350px;
+}
+
+.hero-image img {
+    margin-top: -40px;
+}
+
+.info-image {
+    width: 100px;
+    height: 100px;
 }
